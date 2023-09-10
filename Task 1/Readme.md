@@ -36,5 +36,6 @@ Feel free to provide specific details, recommendations, and insights to aid the 
 - [Additional resources, if any]
 
 ---
+<img width="551" alt="Screen+Shot+2018-03-20+at+2 50 59+pm" src="https://github.com/saksham-mishra24/KPMG-AU-Data-Analytics-Internship/assets/120908587/7613888a-2e21-494b-a5a5-e554810dbd0f">
 
 *Note: This content is part of a simulated job task for KPMG AU Data Analytics.*
